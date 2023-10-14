@@ -1,43 +1,41 @@
-# Hello, I'm [Your Name] - Web Developer Extraordinaire! 👨‍💻
+<h1 align="center"><b>Hi, I'm Tarik</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/[YourGitHubUsername]/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..;Full+Stack+Developer;React+|+React+Native+|+Express;Node.js+|+Next"></a>
+</p>
 
-![Developer Animation](https://your-website.com/animation.gif)
+## 🚀 **About me**
 
-Welcome to my GitHub profile! I'm passionate about creating stunning and functional websites. With a keen eye for design and a knack for coding, I bring web projects to life with precision and creativity.
+- 🔥 Full Stack Developer specializing in React, React Native, Express, Node.js, and Next.
+- 🌐 Check out my [website/portfolio](YourWebsiteURLHere).
+- 📄 Here is my [resume](YourResumeLinkHere).
 
-## 🚀 What I Do
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Front-End Development**: I specialize in crafting responsive and interactive user interfaces using HTML, CSS, and JavaScript. My goal is to ensure that every website I build is not only visually appealing but also highly functional.
+## 💼 **Skills**
+<p align="center">
 
-- **React Native**: I'm experienced in mobile app development using React Native, allowing me to build cross-platform applications with a single codebase.
+- **Languages**:
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Back-End Development**: I'm proficient in server-side technologies such as Node.js and Python, creating robust and efficient back-end systems to power web applications.
+- **Tools**:
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Full-Stack Development**: I love working on both ends of the spectrum, bringing together the best of front-end and back-end development to create seamless user experiences.
+</p>
 
-## 🛠️ Tech Stack
+---
 
-- Front-End: HTML, CSS, JavaScript, React, React Native
-- Back-End: Node.js, Express, Python
-- Databases: MongoDB, PostgreSQL, MySQL
-- Tools: Git, VS Code, IntelliJ WebStorm, Photoshop, Figma
+Note: Assurez-vous de remplacer `[YourGitHubUsername]` par votre nom d'utilisateur GitHub, `YourWebsiteURLHere` par l'URL de votre site web ou portefeuille, et `YourResumeLinkHere` par le lien vers votre CV en ligne si vous en avez un.
 
-## ✨ Animations
-
-I also enjoy adding life to websites with captivating animations. Here are some animation libraries and tools I like to use:
-
-- [Anime.js](https://animejs.com/)
-- [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap/)
-- [Lottie](https://airbnb.io/lottie/)
-- Custom CSS Animations and Transitions
-
-## 🌐 Let's Connect!
-
-I'm always open to collaboration and eager to learn from the developer community. Feel free to reach out for project opportunities, coding challenges, or just to chat about web development.
-
-You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio Website](https://your-website.com)
-
-Let's build amazing web and mobile experiences together! 💻📱✨
+Une fois que vous avez intégré ce code Markdown dans votre profil GitHub ou ailleurs, il affichera une jolie introduction et une liste de compétences avec des badges.
