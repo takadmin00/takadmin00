@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hello, I'm [Your Name] - Web Developer Extraordinaire! 👨‍💻
 
 ![Developer Animation](https://your-website.com/animation.gif)
@@ -15,14 +14,21 @@ Welcome to my GitHub profile! I'm passionate about creating stunning and functio
 
 - **Full-Stack Development**: I love working on both ends of the spectrum, bringing together the best of front-end and back-end development to create seamless user experiences.
 
-- **Web Design**: My passion for design extends beyond coding. I believe that a great user interface is a work of art, and I'm committed to creating websites that not only perform well but also look stunning.
-
 ## 🛠️ Tech Stack
 
 - Front-End: HTML, CSS, JavaScript, React, React Native
 - Back-End: Node.js, Express, Python
 - Databases: MongoDB, PostgreSQL, MySQL
 - Tools: Git, VS Code, IntelliJ WebStorm, Photoshop, Figma
+
+## ✨ Animations
+
+I also enjoy adding life to websites with captivating animations. Here are some animation libraries and tools I like to use:
+
+- [Anime.js](https://animejs.com/)
+- [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap/)
+- [Lottie](https://airbnb.io/lottie/)
+- Custom CSS Animations and Transitions
 
 ## 🌐 Let's Connect!
 
