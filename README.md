@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi, I'm Tarik</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/[YourGitHubUsername]/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..;Full+Stack+Developer;React+|+React+Native+|+Express;Node.js+|+Next"></a>
+  <a href="https://github.com/takadmin00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..;Full+Stack+Developer;React+|+React+Native+|+Express;Node.js+|+Next"></a>
 </p>
 
 ## 🚀 **About me**
 
-- 🔥 Full Stack Developer specializing in React, React Native, Express, Node.js, and Next.
+- 🔥 Full Stack Developer specializing in Web Development 
 - 🌐 Check out my [website/portfolio](YourWebsiteURLHere).
 - 📄 Here is my [resume](YourResumeLinkHere).
 
@@ -35,7 +35,3 @@
 </p>
 
 ---
-
-Note: Assurez-vous de remplacer `[YourGitHubUsername]` par votre nom d'utilisateur GitHub, `YourWebsiteURLHere` par l'URL de votre site web ou portefeuille, et `YourResumeLinkHere` par le lien vers votre CV en ligne si vous en avez un.
-
-Une fois que vous avez intégré ce code Markdown dans votre profil GitHub ou ailleurs, il affichera une jolie introduction et une liste de compétences avec des badges.
