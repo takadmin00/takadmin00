@@ -5,7 +5,7 @@
 
 ## 🚀 **About me**
 
-- 🔥 Full Stack Developer specializing in Web Development 
+- 🔥 Full Stack Developer specializing in Web & Mobile App Development 
 - 🌐 Check out my [website/portfolio](YourWebsiteURLHere).
 - 📄 Here is my [resume](YourResumeLinkHere).
 
