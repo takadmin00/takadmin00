@@ -3,11 +3,6 @@
   <a href="https://github.com/takadmin00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..;Full+Stack+Developer;React+|+React+Native+|+Express;Node.js+|+Next"></a>
 </p>
 
-## 🚀 **About me**
-
-- 🔥 Full Stack Developer specializing in Web & Mobile App Development 
-- 🌐 Check out my [website/portfolio](YourWebsiteURLHere).
-- 📄 Here is my [resume](YourResumeLinkHere).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
